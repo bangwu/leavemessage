@@ -1,0 +1,3 @@
+rootProject.name = 'leavemessage'
+
+include ':app'
